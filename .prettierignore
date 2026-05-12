@@ -1,4 +1,4 @@
-# .prettierignore
+
 build
 coverage
 node_modules
